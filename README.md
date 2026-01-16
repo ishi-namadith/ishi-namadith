@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ishira Namadith</h1>
 <p align="center">
-  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="280" />
+  <img src="https://camo.githubusercontent.com/7fd12514590eeb57d7f78ff8beba1cac3cb6c30b97fc3cb579aa41abd5611ad2/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33662f37652f34652f33663765346566663763393665396665346238623462316666336637626462352e676966" width="280" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Ishira Namadith</h1>
+
 <h3 align="center">Building scalable systems and intelligent software with Go, Python, and modern AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishi-namadith&label=Profile%20views&color=0e75b6&style=flat" alt="ishi-namadith" /> </p>
