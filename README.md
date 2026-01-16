@@ -6,8 +6,6 @@
 
 <h3 align="center">Software Engineer | Full-Stack Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishi-namadith" alt="ishi-namadith" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/ishi-namadith](https://github.com/ishi-namadith)
 
 - 📫 How to reach me **namadithishira@gmail.com**
