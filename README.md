@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishira Namadith</h1>
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 <h3 align="center">Building scalable systems and intelligent software with Go, Python, and modern AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishi-namadith&label=Profile%20views&color=0e75b6&style=flat" alt="ishi-namadith" /> </p>
